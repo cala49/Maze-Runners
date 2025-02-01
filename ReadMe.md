@@ -1,3 +1,4 @@
+### CARLOS ALBERTO MARICHAL CALA C-112
 ### Cómo Jugar el Juego de Aventuras en Tartaria
 
 #### Objetivo del Juego
